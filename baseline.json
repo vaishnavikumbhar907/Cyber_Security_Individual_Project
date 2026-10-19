@@ -1,0 +1,17 @@
+{
+  "folder": "C:\\Users\\kumbh\\Downloads\\folder",
+  "created": "2026-10-19T12:22:22",
+  "files": {
+    "hacker.exe.txt": {
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "size": 0,
+      "mtime": "2026-10-19T12:21:26"
+    },
+    "notes.txt": {
+      "sha256": "e66c8e7e822ef5daee672581eaaa8e0d2b8ce9b831f2a60fdb371421d093b566",
+      "size": 22,
+      "mtime": "2026-10-19T12:20:49"
+    }
+  },
+  "hmac": "3e72b9a74a86279dd1840c6f1b1d662be9ccbe4682f9921a3e428ad31c6408bd"
+}
